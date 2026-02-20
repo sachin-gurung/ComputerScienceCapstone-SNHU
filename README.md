@@ -1,15 +1,19 @@
+# CS 499 Capstone Project
+
 This video link explains the existing functionality, code analysis and planned enhancements for my CS 499 artifact.
 
-[Video Link Here](https://youtu.be/ZUio6xgxTgA?si=_05Do5Q7-nSyIxvC)
+[Watch the Code Review Video](https://youtu.be/ZUio6xgxTgA)
 
-============================================
+---
+## Original Artifact (Before Enhancement)
 
-This is the link for the Original Artifact without Enhancement
+This version represents the initial implementation before enhancements
 
-[Original Artifact without Enhancement](https://drive.google.com/file/d/1vm2mBVOuvugAZmhhTeqBypBywxFzxxiJ/view?usp=drive_link)
+[View the Original Artifact without Enhancement](https://drive.google.com/file/d/1vm2mBVOuvugAZmhhTeqBypBywxFzxxiJ/view?usp=drive_link)
 
-============================================
+---
+## Enhanced Artifact (After Improvements)
 
-This is the link for the Enhanced Artifact
+This version includes the architectural improvements, algorithm optimization and database enhancements
 
-[Enhanced Artifact Link](https://drive.google.com/file/d/1mDXypST8l77XPr03B_82rUsa8PR2Hcrg/view?usp=sharing)
+[View the Enhanced Artifact](https://drive.google.com/file/d/1mDXypST8l77XPr03B_82rUsa8PR2Hcrg/view?usp=sharing)
